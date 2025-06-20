@@ -1,0 +1,11 @@
+tkinter
+sounddevice
+wave
+threading
+whisper
+deep-translator
+pandas
+numpy
+google-generativeai
+grpcio
+grpcio-tools
